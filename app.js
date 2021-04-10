@@ -47,7 +47,7 @@ const game = () => {
       });
     });
   };
-
+------------------------------------------------------------------------------
   const updateScore = () => {
     const playerScore = document.querySelector(".player-score p");
     const computerScore = document.querySelector(".computer-score p");
